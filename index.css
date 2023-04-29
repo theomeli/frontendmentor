@@ -1,0 +1,45 @@
+body {
+  background-color: #D5E1EF;
+}
+
+img {
+  max-width: 90%;
+  margin: 15px;
+  border-radius: 5%;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 1.2em;
+  margin: 0 1.8em;
+  text-align: center;
+}
+
+p {
+  margin: 1.2em 1.8em 1em;
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: white;
+  height: 440px;
+  width: 300px;
+  border-radius: 5%;
+}
+
+.attribution {
+  bottom: 0px;
+  position: absolute;
+  margin-bottom: 1em;
+  text-align: right;
+  width: 98%;
+}
